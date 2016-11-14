@@ -2,6 +2,7 @@
   "name": "mio-killsniff",
   "version": "1.0.0",
   "description": "Remove sniffers and crawlers by User-Agent",
+  "homepage": "http://gromy.co",
   "main": "killSniff.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
