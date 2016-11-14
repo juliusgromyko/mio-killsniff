@@ -1,6 +1,6 @@
 {
   "name": "mio-killsniff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove sniffers and crawlers by User-Agent",
   "homepage": "http://gromy.co",
   "main": "killSniff.js",
